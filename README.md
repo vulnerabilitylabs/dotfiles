@@ -43,6 +43,3 @@
     - [Dark Planet](https://www.opendesktop.org/p/1163924/) - Wallpaper.
 
 
-## Links
-
-[DotShare.it](http://dotshare.it/~dikiaap/)
